@@ -1,0 +1,30 @@
+body{
+    text-align: center;
+    line-height: 1.5em;
+    height: 100%;
+display: flex;
+    
+}
+.sizetoname{
+    font-size: x-large;
+    /* line-height: 5.5em; */
+    display: inline;
+}
+.merchant-name{
+    line-height: 1.8em;
+}
+.emailtosize{
+    font-size: x-large;
+    display: inline;
+    /* line-height: 1.5em; */
+}
+.merchant-email{
+    line-height: 1.8em; 
+}
+.sizeofpassword{
+    font-size: x-large;
+    display: inline;
+}
+.merchant-password{
+    line-height: 1.8em;
+}
